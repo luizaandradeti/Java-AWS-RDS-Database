@@ -11,16 +11,6 @@ This material is study personal and does not replace official documentation, alw
 
 </div> 
 
-> [!IMPORTANT]
->
-> This material does not depend on any other material to be read. No acronym, absolutely none is related to other sectors, not even the financial sector.
-> There is no connection whatsoever with FinOps or frontend of other advertisements or posts, in any media, paid or free
-> DevOps is not FinOps. DevSecOps is not FinOps. FinOps is not AdminOps. Consult the official documentation. 
-> There is no intention whatsoever to generalize the acronyms. The meaning is strict.
-> The terms and acronyms, both here and on my Linkedin, have no connection whatsoever to anything other than the term itself, and that is simple.
-> The cited documentation is the only one that is directly related to the text.
-> Please do not create contexts in technical terms when reading, that is, do not use text out of context.
-> This code does not address issues of politics, religion or agendas. 
 
 
 ## 🔗 Links
