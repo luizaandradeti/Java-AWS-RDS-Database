@@ -253,3 +253,11 @@ This step will still be done in these personal studies.
 [![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
 
 
+
+> [!NOTE]
+>
+> 
+> The cited documentation is the only one that is directly related to the text.
+> Please do not create contexts in technical terms when reading, that is, do not use text out of context.
+> This code does not address issues of politics, religion or agendas. 
+
