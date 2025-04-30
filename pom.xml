@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.seguradorax</groupId>
-	<artifactId>app</artifactId>
+	<artifactId>JavaRds</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Site</name>
-	<description>Demo project for Spring Boot</description>
+	<name>JavaRds</name>
+	<description>Spring com RDS</description>
 	<url/>
 	<licenses>
 		<license/>
