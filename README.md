@@ -233,7 +233,7 @@ You need to ask your leader, who will add this permission through AWS IAM or sho
 
 ![App Screenshot](images/readmore.png)
 
-
+> 
 
 
 ### 7.  Micrometer with AWS Cloud Watch - <img src="https://d2q66yyjeovezo.cloudfront.net/icon/8f57ebd825a828e205b2dde223ba17e4-6af63a22dc297f8041286760ee8cd2c9.svg" /></a></td>
@@ -245,9 +245,7 @@ This step will still be done in these personal studies.
 
 
 > [!NOTE]
->
 > 
-> The cited documentation is the only one that is directly related to the text.
-> Please do not create contexts in technical terms when reading, that is, do not use text out of context.
+> Repository for professional study purposes.
 > This code does not address issues of politics, religion or agendas. 
 
