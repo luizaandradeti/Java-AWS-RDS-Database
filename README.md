@@ -11,8 +11,6 @@ This material is study personal and does not replace official documentation, alw
 
 </div> 
 
-
-
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/luiza-andrade-ti/) [![git](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaandradeti/)
@@ -73,7 +71,6 @@ DbEaver connection MySql
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-
 ![App Screenshot](images/navegador.png)
 
 ##### 4.3 Request in Postman - method get (local database)
@@ -108,7 +105,6 @@ DbEaver connection MySql
 
 ````
 ###  6. DBeaver connection to AWS RDS database in dev environment 
-
 
 - Personal account 
 Create a DB and connect 
@@ -233,16 +229,12 @@ You need to ask your leader, who will add this permission through AWS IAM or sho
 
 ![App Screenshot](images/readmore.png)
 
-> 
-
 
 ### 7.  Micrometer with AWS Cloud Watch - <img src="https://d2q66yyjeovezo.cloudfront.net/icon/8f57ebd825a828e205b2dde223ba17e4-6af63a22dc297f8041286760ee8cd2c9.svg" /></a></td>
 	
 This step will still be done in these personal studies.
 
 [![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
-
-
 
 > [!NOTE]
 > 
