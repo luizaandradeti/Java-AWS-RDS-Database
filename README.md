@@ -74,7 +74,11 @@ DbEaver connection MySql
 ![App Screenshot](images/navegador.png)
 
 ##### 4.3 Request in Postman - method get (local database)
-![App Screenshot](images/navegador2.png)
+
+
+![Texto Alternativo](https://github.com/luizaandradeti/Java-AWS-RDS-Database/blob/main/images/navegador2.png)
+
+
 
 #### 5. Connection with RDS Database  (cloud - dev environment) 
 
