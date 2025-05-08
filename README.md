@@ -143,7 +143,19 @@ It is important to have accounts, users and roles with granular permission.
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#root-user-tasks
   
   ![App Screenshot](images/root.png)
-  ![App Screenshot](images/root2.png)
+
+<div>
+<img src="https://github.com/luizaandradeti/Java-AWS-RDS-Database/blob/d7478cb219a14d54f7a668b002faf709845b41cd/images/root.png">	  
+</div>
+
+
+
+
+<div>
+<img src="https://github.com/luizaandradeti/Java-AWS-RDS-Database/blob/d7478cb219a14d54f7a668b002faf709845b41cd/images/root2.png">	  
+</div>
+
+
   ![App Screenshot](images/root3.png)
   
 If you have a corporate user on a company-granted account who doesn't have access (login) yet, or has lost it, and is asked to perform a task that requires that access, you can recover that information by requesting it from the authorized technology administrator (usually through an internal ticket, such as Service Now), who will retrieve it through AWS IAM. You will need to consult with your lead (who will show you the way to get this login recovery done within the timeframe stipulated by the SLA). Some companies purchase plans that include more support and AWS consultants to assist their development team. 
