@@ -51,13 +51,13 @@ Developer Mid-senior
 
 ### 3. Setup Database local with docker (test - local environment)
 
-![App Screenshot](images/docker0.png)
+
 
 
 4. Connection - local database (docker-compose.yml)
 DbEaver connection MySql
-![App Screenshot](images/conexao0.png)
-![App Screenshot](images/dockerc.png)
+<img src="https://github.com/luizaandradeti/Java-AWS-RDS-Database/blob/33a356be6581033f4c6f4ea6297ae74277929556/images/conexao0.png">
+<img src="https://github.com/luizaandradeti/Java-AWS-RDS-Database/blob/33a356be6581033f4c6f4ea6297ae74277929556/images/dockerc.png">
 
 
 
