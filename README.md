@@ -62,7 +62,9 @@ DbEaver connection MySql
 
 
 ##### 4.1 Run API (local)
-![App Screenshot](images/run.png)
+<div>
+	<img src="https://github.com/luizaandradeti/Java-AWS-RDS-Database/blob/1f757bb1cad271ecbc1707a7b7259d7897f77069/images/navegador2.png">
+</div>
 ##### 4.2 Request api Browser- method get (database local)
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
