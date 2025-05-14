@@ -250,7 +250,22 @@ You need to ask your leader, who will add this permission through AWS IAM or sho
 
 ### 7.  Micrometer with AWS Cloud Watch - <img src="https://d2q66yyjeovezo.cloudfront.net/icon/8f57ebd825a828e205b2dde223ba17e4-6af63a22dc297f8041286760ee8cd2c9.svg" /></a></td>
 	
+
+### Criation
 This step will still be done in these personal studies.
+
+![alt](images/rds-metrics1.png)
+![alt](images/rds-metrics2.png)
+![alt](images/rds-metrics3.png)
+![alt](images/rds-metrics4.png)
+![alt](images/rds-metrics5.png)
+![alt](images/rds-metrics6png.png)
+![alt](images/rds-metrics7.png)
+
+
+
+
+
 
 [![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
 
