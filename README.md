@@ -6,8 +6,10 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,java,mysql,postman,vscode,spring&perline=3)](https://skillicons.dev)
 
 
-> > ℹ️ The word 'My' (MySQL) mentioned in item 4 does not refer to the pronoun, but to the name given by the creator.
+> > ℹ️ According to the official MySQL documentation, it is concept as:
 
+
+![App Screenshot](images/oficial.png) 
 
 [![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
 
