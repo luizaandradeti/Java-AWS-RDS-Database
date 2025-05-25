@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,java,mysql,postman,vscode,spring&perline=3)](https://skillicons.dev)
 
 
-> > ℹ️ The word my(MySQL) in this context does not refer to the pronoun, but to the name given by the creator.
+> > ℹ️ The word my (MySQL) mentioned in item 4 does not refer to the pronoun, but to the name given by the creator.
 
 
 [![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
