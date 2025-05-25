@@ -11,7 +11,11 @@
 
 ![App Screenshot](images/oficial.png) 
 
-MySQL is very popular and is used in large, medium and small companies. For further questions, always consult the official documentation, as they are the most reliable sources of reference in case of doubts.
+
+> [!NOTE]
+>
+>
+> MySQL is very popular and is used in large, medium and small companies. For more technical information, always consult the official documentation, as it contains the most reliable technical references on how the DBMS in question works. Choosing the right sources is essential in the technical area.
 
 - https://dev.mysql.com/doc/mysql-getting-started/en/
 
