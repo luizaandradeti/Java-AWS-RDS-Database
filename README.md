@@ -11,6 +11,8 @@
 
 ![App Screenshot](images/oficial.png) 
 
+Due to its strong adoption in the software development area over the years, many developers are innovating in the robustness and consistency of the service. For further questions, consult the official documentation/source
+
 [![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
 
 This material is study personal and does not replace official documentation, always follow the official documentation.
