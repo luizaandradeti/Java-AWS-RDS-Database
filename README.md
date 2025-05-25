@@ -5,6 +5,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,java,mysql,postman,vscode,spring&perline=3)](https://skillicons.dev)
 
+
+:::i "Info"
+The word my(MySQL) in this context does not refer to the pronoun, but to the name given by the creator
+:::
+
 [![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
 
 This material is study personal and does not replace official documentation, always follow the official documentation.
@@ -110,6 +115,8 @@ DbEaver connection MySql
     </dependency>
 
 ````
+
+
 ###  6. DBeaver connection to AWS RDS database in dev environment 
 
 - Personal account 
