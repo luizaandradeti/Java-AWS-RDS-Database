@@ -11,14 +11,9 @@
 
 ![App Screenshot](images/oficial.png) 
 
-
-> [!NOTE]
->
->
-> MySQL is very popular and is used in large, medium and small companies. For more technical information, always consult the official documentation, as it contains the most reliable technical references on how the DBMS in question works. Choosing the right sources is essential in the technical area.
-
 - https://dev.mysql.com/doc/mysql-getting-started/en/
 
+> > ℹ️ MySQL is very popular and is used in large, medium and small companies. For more technical information, always consult the official documentation, as it contains the most reliable technical references on how the Data Base Management System in question works. Choosing the right sources is essential in the technical area.
 
 [![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
 
