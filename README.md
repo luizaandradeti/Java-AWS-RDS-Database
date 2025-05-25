@@ -11,6 +11,12 @@
 
 ![App Screenshot](images/oficial.png) 
 
+
+Due to its strong popularity and adoption in the software development sector, it has proven to be reliable, consistent and robust. For further questions, always consult the official documentation.
+
+- https://dev.mysql.com/doc/mysql-getting-started/en/
+
+
 [![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
 
 This material is study personal and does not replace official documentation, always follow the official documentation.
