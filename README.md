@@ -11,8 +11,7 @@
 
 ![App Screenshot](images/oficial.png) 
 
-
-Due to its strong popularity and adoption in the software development sector, it has proven to be reliable, consistent and robust. For further questions, always consult the official documentation.
+MySQL is very popular and is used in large, medium and small companies. For further questions, always consult the official documentation, as they are the most reliable sources of reference in case of doubts.
 
 - https://dev.mysql.com/doc/mysql-getting-started/en/
 
