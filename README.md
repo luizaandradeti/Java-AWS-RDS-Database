@@ -6,14 +6,14 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,java,mysql,postman,vscode,spring&perline=3)](https://skillicons.dev)
 
 
-> > ℹ️ According to the official MySQL documentation, it is concept as:
+> > ℹ️ According to the official MySQL website, it is very popular all over the world:
 
 
 ![App Screenshot](images/oficial.png) 
 
 - https://dev.mysql.com/doc/mysql-getting-started/en/
 
-> > ℹ️ MySQL is very popular and is used in large, medium and small companies. For more technical information, always consult the official documentation, as it contains the most reliable technical references on how the Data Base Management System in question works. Choosing the right sources is essential in the technical area.
+> > ℹ️ MySQL is very popular and used in large, medium and small companies. For technical information, always consult the official documentation, as it contains the most reliable technical references on how the Database Management System in question works
 
 [![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
 
